@@ -1,0 +1,24 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+.custom-bg{
+    background:#3f51b5 !important;
+}
+
+.Admin .card{
+    border: 1px solid blue;
+}
+.Admin .card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+.list-group-item.active{
+    background:#3f51b5 !important;
+    border-color: #3f51b5 !important;
+}
+.discount-label{
+    font-size:10px!important;
+    font-size:italic!important;
+    
+}
